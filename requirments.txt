@@ -1,0 +1,7 @@
+streamlit
+panda
+plotly
+textblob
+os
+base64
+
